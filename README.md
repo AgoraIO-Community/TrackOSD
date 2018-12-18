@@ -22,3 +22,30 @@ You can test the web app [here](https://jennifertrin.github.io/TrackOSD-Customer
 
 <img src="Track Shipment Interface.jpg" width="400" height="275">
 <img src="Shipment Video Chat.jpg" width="400" height="275"> 
+
+Agora Features Implemented:
+<b>While the customer waits to be connected with a customer service rep, an audio of an advertisement of retailer or shipping carrier can be play</b>
+
+_Stream.startAudioMixing_
+
+_Stream.stopAudioMixing_
+
+_Stream.pauseAudioMixing_
+
+_Stream.resumeAudioMixing_
+
+_Stream.adjustAudioMixingVolume_
+
+_Stream.getAudioMixingDuration_
+
+<b>To help the customer and customer service adjust volume</b>
+
+_Client.enableAudioVolumeIndicator_ 
+
+<b>To help customer service keep track of call quality and continue to improve service, I used the following</b>
+
+_Client.getRemoteVideoStats_
+
+_Client.getRemoteAudioStats_
+
+_Client.getTransportStats_
