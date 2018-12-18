@@ -3,7 +3,8 @@
 
 <b>TrackOSD</b> is a video chat solution optimized for customer service to resolve ecommerce shipping issues.
 <br>
-<img src="Track OSD 3_2 Ratio.png"> 
+<br>
+<img src="Track OSD 3_2 Ratio.png" width="200" height="200"> 
 <br>
 <b>Online Shoppers</b>
 <br>
