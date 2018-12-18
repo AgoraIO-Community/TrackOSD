@@ -43,7 +43,7 @@ _Stream.getAudioMixingDuration_
 
 _Client.enableAudioVolumeIndicator_ 
 
-<b>To help customer service keep track of call quality and continue to improve service, I used the following:</b>
+<b>To help customer service keep track of call quality and continue to improve service</b>
 
 _Client.getRemoteVideoStats_
 
