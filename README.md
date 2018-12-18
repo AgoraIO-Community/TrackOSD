@@ -2,7 +2,9 @@
 <b>Resolve shipping issues faster through video chat</b>
 
 <b>TrackOSD</b> is a video chat solution optimized for customer service to resolve ecommerce shipping issues.
-
+<br>
+<img src="Track OSD 3_2 Ratio.png"> 
+<br>
 <b>Online Shoppers</b>
 <br>
 Have you had to attach numerous photos of different angles of a damaged package to Amazon or Ebay customer service?
