@@ -1,8 +1,6 @@
 # TrackOSD-Customer-Service-Agora-Video-Chat-App
 <b>Resolve shipping issues faster through video chat</b>
 
-![Logo](TrackOSD/Track OSD 3_2 Ratio.png)
-
 <b>TrackOSD</b> is a video chat solution optimized for customer service to resolve ecommerce shipping issues.
 
 <b>Online Shoppers</b>
